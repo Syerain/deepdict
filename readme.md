@@ -4,7 +4,7 @@ a simple cli app for Windows that provides translation service via LLM api
 
 ## Config & Run
 
-- create a profile named  ``` ./key.dd.conf ``` then put it and the program together.
+- create a profile named  ``` api-key.dd.conf ``` then put it and the program together.
 
   ( I used OpenAI format api request in the program and thus, make sure your LLM api provider uses the same format. )
 
