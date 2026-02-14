@@ -2,14 +2,12 @@
 
 a simple cli app for Windows that provides translation service via LLM api
 
-## Config
+## Config & Run
 
-put your api keys in 
-> ./key.dd.conf 
-(must in openAI format)
+- create a profile named  ``` ./key.dd.conf ``` then put it and the program together.
 
-## How to use
+  ( I used OpenAI format api request in the program and thus, make sure your LLM api provider uses the same format. )
 
-> deepdict.exe exampleword
+- to use the program, run in cli:  ``` deepdict.exe exampleword ```
 
-recommended to put the program into your PATH or set an alias for it.
+  it is recommended to put the program into your PATH or set an alias for it.
