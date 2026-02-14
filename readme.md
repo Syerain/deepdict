@@ -1,6 +1,6 @@
 # Deep Dict
 
-a simple cli app for Windows that provides translation service via LLM api
+a simple cli tool for Windows that provides translation service via LLM api
 
 ## Config & Run
 
