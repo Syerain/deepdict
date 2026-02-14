@@ -8,6 +8,6 @@ a simple cli app for Windows that provides translation service via LLM api
 
   ( I used OpenAI format api request in the program and thus, make sure your LLM api provider uses the same format. )
 
-- to use the program, run in cli:  ``` deepdict.exe exampleword ```
+- to use the program, run in cli :  ``` deepdict.exe exampleword ```
 
   it is recommended to put the program into your PATH or set an alias for it.
